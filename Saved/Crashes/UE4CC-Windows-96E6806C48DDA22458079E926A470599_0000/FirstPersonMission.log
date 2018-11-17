@@ -1,0 +1,1691 @@
+﻿Log file open, 07/15/18 11:59:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FirstPersonMission
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1266489112) SRandInit(1266489112).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.371840
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  6.037s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-EPGD1EO (192.168.0.170:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.045s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.15-09.59.11:413][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.15-09.59.11:413][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.15-09.59.11:619][  0]LogInit: Computer: DESKTOP-EPGD1EO
+[2018.07.15-09.59.11:619][  0]LogInit: User: NightNodeCEO
+[2018.07.15-09.59.11:619][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.15-09.59.11:619][  0]LogInit: High frequency timer resolution =3.331179 MHz
+[2018.07.15-09.59.11:619][  0]LogMemory: Memory total: Physical=20.0GB (20GB approx)
+[2018.07.15-09.59.11:619][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.15-09.59.11:619][  0]LogMemory: Process Physical Memory: 275.32 MB used, 275.32 MB peak
+[2018.07.15-09.59.11:619][  0]LogMemory: Process Virtual Memory: 271.83 MB used, 271.83 MB peak
+[2018.07.15-09.59.11:619][  0]LogMemory: Physical Memory: 7069.46 MB used,  13377.66 MB free, 20447.12 MB total
+[2018.07.15-09.59.11:619][  0]LogMemory: Virtual Memory: 689.56 MB used,  13377.66 MB free, 134217728.00 MB total
+[2018.07.15-09.59.12:444][  0]LogInit: Using OS detected language (en-US).
+[2018.07.15-09.59.12:444][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.07.15-09.59.12:697][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.15-09.59.13:700][  0]LogStreaming: Display: Took  1.256s to EndInitTextLocalization.
+[2018.07.15-09.59.13:700][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.15-09.59.14:060][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.15-09.59.14:060][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.15-09.59.19:060][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.15-09.59.19:115][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2018.07.15-09.59.19:115][  0]LogD3D11RHI:       2017/0/10223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.15-09.59.19:118][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.15-09.59.19:118][  0]LogD3D11RHI:       0/0/10223 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.15-09.59.19:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.15-09.59.19:125][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.15-09.59.19:125][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.15-09.59.19:125][  0]LogWindows: EnumDisplayDevices:
+[2018.07.15-09.59.19:125][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2018.07.15-09.59.19:125][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2018.07.15-09.59.19:125][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.07.15-09.59.19:125][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.07.15-09.59.19:125][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.15-09.59.19:125][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2018.07.15-09.59.19:125][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.15-09.59.19:125][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.15-09.59.19:125][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.07.15-09.59.19:161][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.15-09.59.19:161][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.15-09.59.19:161][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.15-09.59.19:175][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.15-09.59.19:178][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Unreal Projects/FirstPersonMission/Intermediate/Shaders/WorkingDirectory/13248/).
+[2018.07.15-09.59.19:179][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NightNode-CEO/AppData/Local/Temp/UnrealShaderWorkingDir/103302784790F34E107A3A9E73D8CA0C/'.
+[2018.07.15-09.59.20:687][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.15-09.59.20:702][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.15-09.59.20:717][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.15-09.59.20:732][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.15-09.59.20:764][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.15-09.59.20:779][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.15-09.59.20:794][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.15-09.59.20:809][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.15-09.59.20:815][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.15-09.59.20:829][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.15-09.59.20:844][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.15-09.59.20:858][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.15-09.59.20:872][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.15-09.59.20:886][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.15-09.59.20:900][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.15-09.59.20:928][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.15-09.59.20:928][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.15-09.59.20:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.15-09.59.20:956][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.15-09.59.21:094][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.15-09.59.21:136][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.15-09.59.21:150][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.15-09.59.21:164][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.15-09.59.21:179][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.15-09.59.21:199][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.15-09.59.21:199][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.15-09.59.22:370][  0]LogXGEController: Cleaning working directory: C:/Users/NightNode-CEO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.15-09.59.22:371][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.15-09.59.22:371][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.15-09.59.22:371][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.15-09.59.25:435][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.15-09.59.25:823][  0]LogDerivedDataCache: Loaded boot cache 0.39s 74MB C:/Users/NightNode-CEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.15-09.59.25:823][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NightNode-CEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.15-09.59.25:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/FirstPersonMission/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.15-09.59.25:823][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.15-09.59.25:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/FirstPersonMission/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.15-09.59.25:823][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.15-09.59.25:917][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.15-09.59.25:929][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NightNode-CEO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.15-09.59.25:929][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.15-09.59.25:929][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.15-09.59.25:944][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.15-09.59.25:945][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.15-09.59.25:986][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.15-09.59.25:986][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.15-09.59.33:210][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.07.15-09.59.33:650][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.15-09.59.35:701][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.15-09.59.35:801][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.15-09.59.35:813][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.15-09.59.35:838][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.15-09.59.35:838][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.15-09.59.35:838][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.15-09.59.36:484][  0]LogNetVersion: FirstPersonMission , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3562441305)
+[2018.07.15-09.59.41:099][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 1.836116 seconds
+[2018.07.15-09.59.41:111][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.15-09.59.41:111][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.15-09.59.41:111][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.15-10.00.02:448][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.15-10.00.02:474][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.15-10.00.03:276][  0]SourceControl: Source control is disabled
+[2018.07.15-10.00.03:276][  0]SourceControl: Source control is disabled
+[2018.07.15-10.00.03:292][  0]SourceControl: Source control is disabled
+[2018.07.15-10.00.03:306][  0]SourceControl: Source control is disabled
+[2018.07.15-10.00.04:138][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.15-10.00.04:277][  0]LogOcInput: OculusInput pre-init called
+[2018.07.15-10.00.04:586][  0]LogEngine: Initializing Engine...
+[2018.07.15-10.00.04:587][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.15-10.00.04:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.15-10.00.04:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.15-10.00.05:514][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.15-10.00.05:528][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.00.05:544][  0]LogInit: FAudioDevice initialized.
+[2018.07.15-10.00.05:689][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/NightNode-CEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.15-10.00.05:707][  0]LogInit: Texture streaming: Enabled
+[2018.07.15-10.00.05:725][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.15-10.00.05:726][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={0AC9DBFE-461C-6B99-0141-5EAF912189EC}
+[2018.07.15-10.00.05:741][  0]LogInit: Transaction tracking system initialized
+[2018.07.15-10.00.05:858][  0]BlueprintLog: New page: Editor Load
+[2018.07.15-10.00.06:387][  0]LocalizationService: Localization service is disabled
+[2018.07.15-10.00.07:157][  0]LogConsoleResponse: Display: 
+[2018.07.15-10.00.09:757][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.15-10.00.09:757][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.15-10.00.09:757][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.15-10.00.09:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.15-10.00.09:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.15-10.00.10:228][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/FirstPersonMission/Content/' took 0.05s
+[2018.07.15-10.00.11:761][  0]SourceControl: Source control is disabled
+[2018.07.15-10.00.11:761][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.15-10.00.11:890][  0]LightingResults: New page: Lighting Build
+[2018.07.15-10.00.11:895][  0]MapCheck: New page: Map Check
+[2018.07.15-10.00.11:895][  0]LightingResults: New page: Lighting Build
+[2018.07.15-10.00.12:958][  0]LogAIModule: Creating AISystem for world FirstLevel
+[2018.07.15-10.00.13:010][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.15-10.00.13:023][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.15-10.00.13:065][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41,853ms to complete.
+[2018.07.15-10.00.13:065][  0]LogFileHelpers: Loading map 'FirstLevel' took 1.304
+[2018.07.15-10.00.13:148][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.15-10.00.13:618][  0]LogSlate: Took 0.026010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.15-10.00.16:757][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.15-10.00.16:792][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FirstPersonMission
+[2018.07.15-10.00.16:792][  0]LogTemp: CWD: E:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.15-10.00.16:793][  0]LogTemp: Initial Dir: E:\Program Files\Epic Games\UE_4.19
+[2018.07.15-10.00.16:793][  0]LogTemp: Env CWD: E:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.15-10.00.16:793][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Unreal Projects/FirstPersonMission/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.07.15-10.00.16:867][  0]LogTemp: BranchPath = DESKTOP-EPGD1EO/E/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-EPGD1EO/E/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.15-10.00.16:867][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\NightNode-CEO\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.15-10.00.16:867][  0]LogCollectionManager: Loaded 0 collections in 0.017755 seconds
+[2018.07.15-10.00.16:909][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/FirstPersonMission/Saved/Collections/' took 0.01s
+[2018.07.15-10.00.16:909][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/FirstPersonMission/Content/Developers/NightNodeCEO/Collections/' took 0.01s
+[2018.07.15-10.00.16:909][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/FirstPersonMission/Content/Collections/' took 0.01s
+[2018.07.15-10.00.16:909][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.15-10.00.16:920][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2453 classes and 560 folders.
+[2018.07.15-10.00.16:926][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.15-10.00.18:214][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.15-10.00.18:252][  0]LogSlate: Took 0.030671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.15-10.00.18:274][  0]LogSlate: Took 0.017971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.15-10.00.18:314][  0]LogSlate: Took 0.039249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.07.15-10.00.18:600][  0]LogRenderer: Reallocating scene render targets to support 1388x888 Format 10 NumSamples 1 (Frame:1).
+[2018.07.15-10.00.18:864][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.15-10.00.18:865][  0]LogLoad: (Engine Initialization) Total time: 90.94 seconds
+[2018.07.15-10.00.18:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.15-10.00.18:876][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-10.00.18:903][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.07.15-10.00.19:045][  0]LogSlate: Took 0.031626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.15-10.00.19:065][  1]LogAssetRegistry: Asset discovery search completed in 45.8771 seconds
+[2018.07.15-10.00.19:067][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.15-10.00.19:068][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000311 seconds (updated 0 objects)
+[2018.07.15-10.00.31:234][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.00.32:345][134]LogSlate: Window 'New Level' being destroyed
+[2018.07.15-10.00.32:362][134]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.15-10.00.32:396][134]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.15-10.00.32:399][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.00.32:406][134]LightingResults: New page: Lighting Build
+[2018.07.15-10.00.32:407][134]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.07.15-10.00.32:411][134]MapCheck: New page: Map Check
+[2018.07.15-10.00.32:411][134]LightingResults: New page: Lighting Build
+[2018.07.15-10.00.32:557][134]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.00.32:629][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.15-10.00.32:646][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.15-10.00.32:690][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43,298ms to complete.
+[2018.07.15-10.00.32:690][134]LogFileHelpers: Loading map 'Template_Default' took 0.329
+[2018.07.15-10.00.33:754][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.15-10.00.34:524][319]Cmd: DELETE
+[2018.07.15-10.00.34:524][319]Cmd: ACTOR DELETE
+[2018.07.15-10.00.34:526][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.15-10.00.34:538][319]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.15-10.00.38:326][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-10.00.39:537][904]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.15-10.00.41:530][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-10.00.56:886][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-10.01.13:048][734]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.07.15-10.01.31:054][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.15-10.01.50:380][  1]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.07.15-10.01.50:380][  1]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.01.54:202][425]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.07.15-10.01.54:202][425]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.02.09:068][123]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.07.15-10.02.09:068][123]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.02.31:621][741]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.02.31:621][741]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.02.41:671][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.15-10.02.45:479][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.02.45:480][289]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:02:45)
+[2018.07.15-10.02.45:480][289]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.02.45:485][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004545s)
+[2018.07.15-10.02.45:486][289]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.02.45:486][289]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.07.15-10.02.45:486][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006080s)
+[2018.07.15-10.02.45:504][289]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.02.45:512][289]LogInit: FAudioDevice initialized.
+[2018.07.15-10.02.45:513][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.02.45:788][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba0cf85c00, Size=752, Default__Hunter_C Function /Game/Blueprints/Actors/Characters/Hunter.Hunter_C:ExecuteUbergraph_Hunter
+[2018.07.15-10.02.45:794][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba794c5600, Size=896, Default__Weapon_C Function /Game/Blueprints/Actors/Weapons/Weapon.Weapon_C:ExecuteUbergraph_Weapon
+[2018.07.15-10.02.45:906][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba4a7e2ac0, Size=160, Default__TrailEffect_C Function /Game/Blueprints/Actors/Effects/TrailEffect.TrailEffect_C:ExecuteUbergraph_TrailEffect
+[2018.07.15-10.02.46:061][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba76a80298, Size=24, Default__Explosive_C Function /Game/Blueprints/Actors/Projectiles/Explosive.Explosive_C:ExecuteUbergraph_Explosive
+[2018.07.15-10.02.46:133][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001baa7152840, Size=264, Default__Grenade_C Function /Game/Blueprints/Actors/Projectiles/Grenade.Grenade_C:ExecuteUbergraph_Grenade
+[2018.07.15-10.02.46:244][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba76a80298, Size=24
+[2018.07.15-10.02.46:244][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba79417688, Size=24, Default__Explosive_C Function /Engine/Transient.REINST_Explosive_C_5:ExecuteUbergraph_Explosive
+[2018.07.15-10.02.46:246][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001baa7152840, Size=264
+[2018.07.15-10.02.46:246][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba48f24f40, Size=264, Default__Grenade_C Function /Engine/Transient.REINST_Grenade_C_6:ExecuteUbergraph_Grenade
+[2018.07.15-10.02.46:247][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba4a7e2ac0, Size=160
+[2018.07.15-10.02.46:247][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001baa746f560, Size=160, Default__TrailEffect_C Function /Engine/Transient.REINST_TrailEffect_C_7:ExecuteUbergraph_TrailEffect
+[2018.07.15-10.02.46:248][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba794c5600, Size=896
+[2018.07.15-10.02.46:248][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba4a6ba780, Size=896, Default__Weapon_C Function /Engine/Transient.REINST_Weapon_C_8:ExecuteUbergraph_Weapon
+[2018.07.15-10.02.46:249][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba0cf85c00, Size=752
+[2018.07.15-10.02.46:250][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba9ed32500, Size=752, Default__Hunter_C Function /Engine/Transient.REINST_Hunter_C_9:ExecuteUbergraph_Hunter
+[2018.07.15-10.02.46:279][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba79525ae0, Size=24, Default__Explosive_C Function /Game/Blueprints/Actors/Projectiles/Explosive.Explosive_C:ExecuteUbergraph_Explosive
+[2018.07.15-10.02.46:281][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ba48f24540, Size=264, Default__Grenade_C Function /Game/Blueprints/Actors/Projectiles/Grenade.Grenade_C:ExecuteUbergraph_Grenade
+[2018.07.15-10.02.46:282][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001baa90a60c0, Size=160, Default__TrailEffect_C Function /Game/Blueprints/Actors/Effects/TrailEffect.TrailEffect_C:ExecuteUbergraph_TrailEffect
+[2018.07.15-10.02.46:287][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001baa9092e80, Size=896, Default__Weapon_C Function /Game/Blueprints/Actors/Weapons/Weapon.Weapon_C:ExecuteUbergraph_Weapon
+[2018.07.15-10.02.46:292][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001baa8c5b700, Size=752, Default__Hunter_C Function /Game/Blueprints/Actors/Characters/Hunter.Hunter_C:ExecuteUbergraph_Hunter
+[2018.07.15-10.02.46:441][289]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.02.46:443][289]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.02.46
+[2018.07.15-10.02.46:444][289]LogWorld: Bringing up level for play took: 0.001077
+[2018.07.15-10.02.46:450][289]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.07.15-10.02.46:451][289]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.02.46:451][289]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.02.46:451][289]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.02.46:454][289]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.02.46:454][289]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1,91
+[2018.07.15-10.03.41:665][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba79417688, Size=24
+[2018.07.15-10.03.41:666][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001baa746f560, Size=160
+[2018.07.15-10.03.41:666][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba4a6ba780, Size=896
+[2018.07.15-10.03.41:667][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba9ed32500, Size=752
+[2018.07.15-10.03.41:667][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ba48f24f40, Size=264
+[2018.07.15-10.03.49:487][676]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.07.15-10.03.49:487][676]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.04.05:556][402]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.07.15-10.04.05:556][402]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.04.15:439][525]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2018.07.15-10.04.15:439][525]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.04.23:782][475]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.07.15-10.04.23:782][475]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.04.31:380][345]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2018.07.15-10.04.31:380][345]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.04.34:845][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.04.34:845][738]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:04:34)
+[2018.07.15-10.04.34:845][738]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.04.34:850][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004298s)
+[2018.07.15-10.04.34:850][738]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.04.34:851][738]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2018.07.15-10.04.34:851][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006045s)
+[2018.07.15-10.04.34:869][738]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.04.34:877][738]LogInit: FAudioDevice initialized.
+[2018.07.15-10.04.34:878][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.04.34:907][738]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.04.34:909][738]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.04.34
+[2018.07.15-10.04.34:909][738]LogWorld: Bringing up level for play took: 0.001078
+[2018.07.15-10.04.34:910][738]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.04.34:910][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.04.34:911][738]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.04.34:912][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.04.34:912][738]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,367
+[2018.07.15-10.04.41:072][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.04.41:072][425]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:04:41)
+[2018.07.15-10.04.41:072][425]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.04.41:077][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004030s)
+[2018.07.15-10.04.41:077][425]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.04.41:078][425]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.07.15-10.04.41:078][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005432s)
+[2018.07.15-10.04.41:094][425]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.04.41:103][425]LogInit: FAudioDevice initialized.
+[2018.07.15-10.04.41:103][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.04.41:137][425]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.04.41:139][425]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.04.41
+[2018.07.15-10.04.41:140][425]LogWorld: Bringing up level for play took: 0.001061
+[2018.07.15-10.04.41:140][425]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.04.41:141][425]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.04.41:141][425]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.04.41:142][425]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.04.41:142][425]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,597
+[2018.07.15-10.04.42:299][538]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-10.04.55:349][ 11]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.15-10.05.02:460][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.05.02:461][795]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:05:02)
+[2018.07.15-10.05.02:461][795]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.05.02:465][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004105s)
+[2018.07.15-10.05.02:466][795]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.05.02:466][795]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.07.15-10.05.02:466][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005439s)
+[2018.07.15-10.05.02:483][795]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.05.02:491][795]LogInit: FAudioDevice initialized.
+[2018.07.15-10.05.02:491][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.05.02:523][795]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.05.02:525][795]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.05.02
+[2018.07.15-10.05.02:525][795]LogWorld: Bringing up level for play took: 0.001046
+[2018.07.15-10.05.02:526][795]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.05.02:526][795]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.05.02:526][795]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.05.02:527][795]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.05.02:528][795]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 −0,017
+[2018.07.15-10.05.08:832][522]Cmd: LevelEditor.ToggleImmersive
+[2018.07.15-10.05.08:970][523]LogRenderer: Reallocating scene render targets to support 1516x936 Format 10 NumSamples 1 (Frame:729).
+[2018.07.15-10.05.09:013][524]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:731).
+[2018.07.15-10.05.09:028][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.05.28:007][591]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2018.07.15-10.05.28:007][591]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.05.32:267][996]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.07.15-10.05.32:268][996]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.05.40:693][860]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.05.40:693][860]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.05.57:852][648]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.05.57:852][648]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.06.05:003][388]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.06.05:004][388]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.06.08:762][777]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.06.08:762][777]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.06.16:882][655]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.06.16:883][655]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.06.24:798][497]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2018.07.15-10.06.24:798][497]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.06.56:210][772]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2018.07.15-10.06.56:210][772]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.06.59:102][ 64]Cmd: SELECT NONE
+[2018.07.15-10.07.06:913][884]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.15-10.07.24:185][279]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2018.07.15-10.07.24:185][279]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.07.37:584][645]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2018.07.15-10.07.37:584][645]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.07.45:998][485]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.15-10.07.52:058][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.07.52:058][132]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:07:52)
+[2018.07.15-10.07.52:058][132]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.07.52:065][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006168s)
+[2018.07.15-10.07.52:065][132]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.07.52:066][132]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.07.15-10.07.52:066][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007491s)
+[2018.07.15-10.07.52:084][132]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.07.52:099][132]LogInit: FAudioDevice initialized.
+[2018.07.15-10.07.52:100][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.07.52:134][132]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.07.52:136][132]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.07.52
+[2018.07.15-10.07.52:137][132]LogWorld: Bringing up level for play took: 0.001544
+[2018.07.15-10.07.52:138][132]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.07.52:138][132]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.07.52:138][132]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.07.52:139][132]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.07.52:140][132]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 −0,405
+[2018.07.15-10.08.08:129][889]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2018.07.15-10.08.08:129][889]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.08.27:011][820]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2018.07.15-10.08.27:011][820]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.08.36:374][808]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2018.07.15-10.08.36:375][808]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.08.40:383][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.08.40:384][229]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:08:40)
+[2018.07.15-10.08.40:384][229]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.08.40:391][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006824s)
+[2018.07.15-10.08.40:392][229]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.08.40:392][229]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.07.15-10.08.40:392][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008233s)
+[2018.07.15-10.08.40:410][229]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.08.40:418][229]LogInit: FAudioDevice initialized.
+[2018.07.15-10.08.40:418][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.08.40:453][229]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.08.40:455][229]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.08.40
+[2018.07.15-10.08.40:456][229]LogWorld: Bringing up level for play took: 0.001497
+[2018.07.15-10.08.40:457][229]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.08.40:457][229]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.08.40:457][229]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.08.40:458][229]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.08.40:458][229]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 −0,086
+[2018.07.15-10.09.45:144][990]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2018.07.15-10.09.45:144][990]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.11.14:514][918]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.11.14:514][918]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.12.10:633][617]LogGeometryMode: Warning: Unable to find BoxBrush10 Brush(s) in new BSP
+[2018.07.15-10.12.10:633][617]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.12.43:601][924]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.12.43:601][924]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.13.05:065][ 16]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2018.07.15-10.13.05:065][ 16]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.13.16:331][101]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.13.16:331][101]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.13.27:467][124]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.13.27:467][124]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.14.39:066][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-10.14.39:417][864]LogSavePackage: Save=349.95ms
+[2018.07.15-10.14.39:417][864]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Untitled_1_Auto16AAED5F5410C821480768E82D6FF3E64.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.07.15-10.14.39:420][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.07.15-10.14.39:667][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.640
+[2018.07.15-10.14.39:668][864]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.640
+[2018.07.15-10.16.27:711][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.16.27:712][339]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:16:27)
+[2018.07.15-10.16.27:712][339]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.16.27:728][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015318s)
+[2018.07.15-10.16.27:729][339]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.16.27:730][339]LogPlayLevel: PIE: World Init took: (0.001833s)
+[2018.07.15-10.16.27:731][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.018322s)
+[2018.07.15-10.16.27:757][339]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.16.27:767][339]LogInit: FAudioDevice initialized.
+[2018.07.15-10.16.27:768][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.16.27:807][339]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.16.27:810][339]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.16.27
+[2018.07.15-10.16.27:811][339]LogWorld: Bringing up level for play took: 0.002748
+[2018.07.15-10.16.27:813][339]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.16.27:813][339]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.16.27:814][339]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.16.27:816][339]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.16.27:817][339]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 −0,728
+[2018.07.15-10.16.27:853][340]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054060 > MaxSimulationTimeStep (0.050) for 'Hunter_C_0', movement 'Walking'
+[2018.07.15-10.17.03:520][936]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2018.07.15-10.17.03:520][936]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.17.23:107][799]LogGeometryMode: Warning: Unable to find BoxBrush12 Brush(s) in new BSP
+[2018.07.15-10.17.23:108][799]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.17.30:438][485]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2018.07.15-10.17.30:438][485]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.17.50:544][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.17.50:545][403]PIE: New page: PIE session: Untitled_1 (15 jul 2018 14:17:50)
+[2018.07.15-10.17.50:545][403]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.15-10.17.50:553][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008009s)
+[2018.07.15-10.17.50:554][403]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.15-10.17.50:554][403]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.07.15-10.17.50:554][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009508s)
+[2018.07.15-10.17.50:575][403]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.17.50:583][403]LogInit: FAudioDevice initialized.
+[2018.07.15-10.17.50:584][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.17.50:616][403]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.17.50:618][403]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.15-12.17.50
+[2018.07.15-10.17.50:619][403]LogWorld: Bringing up level for play took: 0.001421
+[2018.07.15-10.17.50:620][403]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.17.50:620][403]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.17.50:620][403]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.17.50:621][403]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.17.50:621][403]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,077
+[2018.07.15-10.19.17:872][606]LogGeometryMode: Warning: Unable to find BoxBrush18 Brush(s) in new BSP
+[2018.07.15-10.19.17:873][606]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.19.46:012][251]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2018.07.15-10.19.46:012][251]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.20.05:842][ 92]Cmd: TRANSACTION UNDO
+[2018.07.15-10.20.05:842][ 92]LogEditorTransaction: Undo Move Actors
+[2018.07.15-10.20.05:859][ 92]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.07.15-10.20.05:860][ 92]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.15-10.20.05:867][ 92]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2018.07.15-10.20.05:867][ 92]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2018.07.15-10.20.05:868][ 92]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.20.07:063][207]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2018.07.15-10.20.07:063][207]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.20.37:716][124]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2018.07.15-10.20.37:716][124]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.20.42:693][624]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2018.07.15-10.20.42:693][624]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.21.04:909][787]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2018.07.15-10.21.04:909][787]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.21.20:752][346]LogGeometryMode: Warning: Unable to find BoxBrush19 Brush(s) in new BSP
+[2018.07.15-10.21.20:752][346]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.21.34:887][671]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2018.07.15-10.21.34:887][671]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.21.37:638][940]LogGeometryMode: Warning: Unable to find BoxBrush20 Brush(s) in new BSP
+[2018.07.15-10.21.37:638][940]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.21.42:923][419]LogGeometryMode: Warning: Unable to find BoxBrush19 Brush(s) in new BSP
+[2018.07.15-10.21.42:923][419]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.21.52:301][352]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2018.07.15-10.21.52:301][352]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.22.11:553][236]LogGeometryMode: Warning: Unable to find BoxBrush21 Brush(s) in new BSP
+[2018.07.15-10.22.11:553][236]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.22.26:573][675]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2018.07.15-10.22.26:574][675]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.22.31:857][179]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-10.22.31:858][179]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.23.04:179][411]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2018.07.15-10.23.04:179][411]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.23.11:467][109]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2018.07.15-10.23.11:468][109]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.23.41:517][159]LogGeometryMode: Warning: Unable to find BoxBrush22 Brush(s) in new BSP
+[2018.07.15-10.23.41:517][159]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.24.28:390][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.24.28:396][647]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush19)
+[2018.07.15-10.24.57:181][296]LogGeometryMode: Warning: Unable to find BoxBrush23 Brush(s) in new BSP
+[2018.07.15-10.24.57:181][296]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.25.00:400][565]Cmd: SELECT NONE
+[2018.07.15-10.25.01:035][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.25.19:809][633]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.15-10.25.19:813][633]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.07.15-10.25.19:891][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-10.25.20:525][633]LogSavePackage: Save=537.95ms
+[2018.07.15-10.25.20:525][633]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q223993CE24D1578782FBFBB889B3D0253.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-10.25.21:057][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-10.25.21:357][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2_BuiltData" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset" SILENT=true
+[2018.07.15-10.25.21:524][633]LogSavePackage: Save=72.19ms
+[2018.07.15-10.25.21:524][633]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_BuiltData76C81DA3490AE4C2ED234A85911C1A45.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset'
+[2018.07.15-10.25.21:527][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset
+[2018.07.15-10.25.21:538][633]LogFileHelpers: Saving map 'Q2' took 1.719
+[2018.07.15-10.25.26:699][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.25.26:699][168]PIE: New page: PIE session: Q2 (15 jul 2018 14:25:26)
+[2018.07.15-10.25.26:699][168]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.25.26:709][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009394s)
+[2018.07.15-10.25.26:710][168]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.25.26:710][168]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.07.15-10.25.26:710][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.010794s)
+[2018.07.15-10.25.26:748][168]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.25.26:756][168]LogInit: FAudioDevice initialized.
+[2018.07.15-10.25.26:756][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.25.26:796][168]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.25.26:801][168]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.25.26
+[2018.07.15-10.25.26:801][168]LogWorld: Bringing up level for play took: 0.001579
+[2018.07.15-10.25.26:802][168]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.25.26:802][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.25.26:803][168]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.25.26:804][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.25.26:804][168]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,26
+[2018.07.15-10.25.56:193][522]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-10.26.08:994][ 31]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-10.39.57:089][786]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.07.15-10.39.57:089][786]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.40.46:702][834]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.40.46:702][834]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.40.58:245][956]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.40.58:246][956]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.41.20:062][ 29]LogGeometryMode: Warning: Unable to find BoxBrush28 Brush(s) in new BSP
+[2018.07.15-10.41.20:063][ 29]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.41.36:217][590]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2018.07.15-10.41.36:217][590]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.41.36:770][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.41.36:771][637]PIE: New page: PIE session: Q2 (15 jul 2018 14:41:36)
+[2018.07.15-10.41.36:771][637]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.41.36:782][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010469s)
+[2018.07.15-10.41.36:783][637]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.41.36:783][637]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2018.07.15-10.41.36:783][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.012061s)
+[2018.07.15-10.41.36:803][637]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.41.36:812][637]LogInit: FAudioDevice initialized.
+[2018.07.15-10.41.36:812][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.41.36:846][637]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.41.36:849][637]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.41.36
+[2018.07.15-10.41.36:849][637]LogWorld: Bringing up level for play took: 0.001409
+[2018.07.15-10.41.36:850][637]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.41.36:850][637]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.41.36:850][637]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.41.36:852][637]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.41.36:852][637]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,307
+[2018.07.15-10.42.07:348][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.42.07:349][ 13]PIE: New page: PIE session: Q2 (15 jul 2018 14:42:07)
+[2018.07.15-10.42.07:349][ 13]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.42.07:360][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010827s)
+[2018.07.15-10.42.07:361][ 13]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.42.07:361][ 13]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.07.15-10.42.07:361][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.012394s)
+[2018.07.15-10.42.07:378][ 13]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.42.07:387][ 13]LogInit: FAudioDevice initialized.
+[2018.07.15-10.42.07:387][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.42.07:426][ 13]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.42.07:429][ 13]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.42.07
+[2018.07.15-10.42.07:429][ 13]LogWorld: Bringing up level for play took: 0.001543
+[2018.07.15-10.42.07:430][ 13]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.42.07:430][ 13]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.42.07:430][ 13]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.42.07:432][ 13]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.42.07:432][ 13]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,887
+[2018.07.15-10.42.23:683][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.42.23:683][809]PIE: New page: PIE session: Q2 (15 jul 2018 14:42:23)
+[2018.07.15-10.42.23:684][809]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.42.23:694][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010368s)
+[2018.07.15-10.42.23:695][809]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.42.23:695][809]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2018.07.15-10.42.23:695][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.011857s)
+[2018.07.15-10.42.23:714][809]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.42.23:723][809]LogInit: FAudioDevice initialized.
+[2018.07.15-10.42.23:723][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.42.23:758][809]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.42.23:760][809]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.42.23
+[2018.07.15-10.42.23:761][809]LogWorld: Bringing up level for play took: 0.001468
+[2018.07.15-10.42.23:762][809]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.42.23:762][809]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.42.23:762][809]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.42.23:763][809]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.42.23:764][809]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,781
+[2018.07.15-10.42.30:316][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.42.30:316][562]PIE: New page: PIE session: Q2 (15 jul 2018 14:42:30)
+[2018.07.15-10.42.30:317][562]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.42.30:327][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010011s)
+[2018.07.15-10.42.30:327][562]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.42.30:328][562]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.07.15-10.42.30:328][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.011386s)
+[2018.07.15-10.42.30:345][562]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.42.30:353][562]LogInit: FAudioDevice initialized.
+[2018.07.15-10.42.30:353][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.42.30:387][562]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.42.30:389][562]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.42.30
+[2018.07.15-10.42.30:390][562]LogWorld: Bringing up level for play took: 0.001775
+[2018.07.15-10.42.30:391][562]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.42.30:391][562]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.42.30:391][562]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.42.30:392][562]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.42.30:393][562]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,152
+[2018.07.15-10.43.10:598][ 21]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2018.07.15-10.43.10:598][ 21]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.43.22:553][166]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.43.22:554][166]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.43.30:184][901]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.43.30:184][901]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.44.10:644][210]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2018.07.15-10.44.10:644][210]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.44.29:731][678]Cmd: DELETE
+[2018.07.15-10.44.29:732][678]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2018.07.15-10.44.29:732][678]LogGeometryMode: Warning: Unable to resolve BoxBrush33 Brush in new BSP, see above
+[2018.07.15-10.44.29:732][678]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.44.31:828][879]Cmd: TRANSACTION UNDO
+[2018.07.15-10.44.31:828][879]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.15-10.44.32:396][902]Cmd: TRANSACTION UNDO
+[2018.07.15-10.44.32:396][902]LogEditorTransaction: Undo Modifier [Delete]
+[2018.07.15-10.44.33:328][992]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2018.07.15-10.44.33:328][992]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.44.34:135][ 65]Cmd: DELETE
+[2018.07.15-10.44.34:157][ 65]Cmd: ACTOR DELETE
+[2018.07.15-10.44.34:167][ 65]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-10.44.34:190][ 65]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.07.15-10.44.40:639][732]LogGeometryMode: Warning: Unable to find BoxBrush32 Brush(s) in new BSP
+[2018.07.15-10.44.40:639][732]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.44.41:699][839]Cmd: DELETE
+[2018.07.15-10.44.41:719][839]Cmd: ACTOR DELETE
+[2018.07.15-10.44.41:728][839]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-10.44.41:752][839]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.07.15-10.45.40:009][473]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2018.07.15-10.45.40:009][473]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.45.54:762][922]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.45.54:762][922]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.45.58:443][279]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.45.58:444][279]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.46.18:513][210]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2018.07.15-10.46.18:514][210]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.47.07:364][471]LogGeometryMode: Warning: Unable to find BoxBrush43 Brush(s) in new BSP
+[2018.07.15-10.47.07:364][471]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.47.14:046][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.47.14:046][ 93]PIE: New page: PIE session: Q2 (15 jul 2018 14:47:14)
+[2018.07.15-10.47.14:046][ 93]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.47.14:060][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013178s)
+[2018.07.15-10.47.14:060][ 93]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.47.14:061][ 93]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.07.15-10.47.14:061][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.014743s)
+[2018.07.15-10.47.14:083][ 93]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.47.14:091][ 93]LogInit: FAudioDevice initialized.
+[2018.07.15-10.47.14:091][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.47.14:127][ 93]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.47.14:131][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.47.14
+[2018.07.15-10.47.14:132][ 93]LogWorld: Bringing up level for play took: 0.003149
+[2018.07.15-10.47.14:133][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.47.14:133][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.47.14:133][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.47.14:135][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.47.14:135][ 93]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,41
+[2018.07.15-10.48.18:869][935]LogGeometryMode: Warning: Unable to find BoxBrush46 Brush(s) in new BSP
+[2018.07.15-10.48.18:870][935]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.48.29:863][ 49]LogGeometryMode: Warning: Unable to find BoxBrush45 Brush(s) in new BSP
+[2018.07.15-10.48.29:863][ 49]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.48.37:710][751]LogGeometryMode: Warning: Unable to find BoxBrush46 Brush(s) in new BSP
+[2018.07.15-10.48.37:711][751]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.49.15:076][380]LogGeometryMode: Warning: Unable to find BoxBrush41 Brush(s) in new BSP
+[2018.07.15-10.49.15:076][380]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.49.28:479][677]LogGeometryMode: Warning: Unable to find BoxBrush47 Brush(s) in new BSP
+[2018.07.15-10.49.28:479][677]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.49.29:002][725]Cmd: DELETE
+[2018.07.15-10.49.29:028][725]Cmd: ACTOR DELETE
+[2018.07.15-10.49.29:047][725]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-10.49.29:079][725]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.07.15-10.49.45:540][436]LogGeometryMode: Warning: Unable to find BoxBrush46 Brush(s) in new BSP
+[2018.07.15-10.49.45:540][436]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.49.58:200][727]LogGeometryMode: Warning: Unable to find BoxBrush46 Brush(s) in new BSP
+[2018.07.15-10.49.58:201][727]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.50.18:990][845]LogGeometryMode: Warning: Unable to find BoxBrush45 Brush(s) in new BSP
+[2018.07.15-10.50.18:991][845]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.50.42:991][113]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-10.50.42:991][113]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.50.47:612][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.50.47:612][567]PIE: New page: PIE session: Q2 (15 jul 2018 14:50:47)
+[2018.07.15-10.50.47:613][567]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.50.47:627][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014692s)
+[2018.07.15-10.50.47:628][567]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.50.47:629][567]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2018.07.15-10.50.47:629][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.016482s)
+[2018.07.15-10.50.47:654][567]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.50.47:663][567]LogInit: FAudioDevice initialized.
+[2018.07.15-10.50.47:663][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.50.47:701][567]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.50.47:704][567]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.50.47
+[2018.07.15-10.50.47:704][567]LogWorld: Bringing up level for play took: 0.001837
+[2018.07.15-10.50.47:705][567]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.50.47:705][567]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.50.47:705][567]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.50.47:707][567]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.50.47:707][567]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,838
+[2018.07.15-10.51.28:736][ 62]LogGeometryMode: Warning: Unable to find BoxBrush47_52 Brush(s) in new BSP
+[2018.07.15-10.51.28:736][ 62]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.51.33:431][468]LogGeometryMode: Warning: Unable to find BoxBrush46 Brush(s) in new BSP
+[2018.07.15-10.51.33:431][468]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.51.38:549][962]Cmd: SELECT NONE
+[2018.07.15-10.52.12:880][470]LogGeometryMode: Warning: Unable to find BoxBrush50 Brush(s) in new BSP
+[2018.07.15-10.52.12:880][470]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.52.17:870][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.15-10.52.27:061][837]LogGeometryMode: Warning: Unable to find BoxBrush50 Brush(s) in new BSP
+[2018.07.15-10.52.27:061][837]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.52.45:905][693]LogGeometryMode: Warning: Unable to find BoxBrush54 Brush(s) in new BSP
+[2018.07.15-10.52.45:906][693]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.52.52:701][317]LogGeometryMode: Warning: Unable to find BoxBrush53 Brush(s) in new BSP
+[2018.07.15-10.52.52:701][317]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.52.53:159][345]Cmd: DELETE
+[2018.07.15-10.52.53:179][345]Cmd: ACTOR DELETE
+[2018.07.15-10.52.53:201][345]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-10.52.53:239][345]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.07.15-10.53.09:643][992]LogGeometryMode: Warning: Unable to find BoxBrush48 Brush(s) in new BSP
+[2018.07.15-10.53.09:643][992]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.53.20:333][ 56]LogGeometryMode: Warning: Unable to find BoxBrush54 Brush(s) in new BSP
+[2018.07.15-10.53.20:333][ 56]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.53.52:595][940]LogGeometryMode: Warning: Unable to find BoxBrush55 Brush(s) in new BSP
+[2018.07.15-10.53.52:596][940]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.54.04:756][104]LogGeometryMode: Warning: Unable to find BoxBrush54 Brush(s) in new BSP
+[2018.07.15-10.54.04:757][104]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.54.33:774][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-10.54.33:775][899]PIE: New page: PIE session: Q2 (15 jul 2018 14:54:33)
+[2018.07.15-10.54.33:775][899]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-10.54.33:791][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016438s)
+[2018.07.15-10.54.33:792][899]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-10.54.33:793][899]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.07.15-10.54.33:793][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.018117s)
+[2018.07.15-10.54.33:825][899]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-10.54.33:833][899]LogInit: FAudioDevice initialized.
+[2018.07.15-10.54.33:834][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.54.33:871][899]LogLoad: Game class is 'Mission_C'
+[2018.07.15-10.54.33:874][899]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-12.54.33
+[2018.07.15-10.54.33:875][899]LogWorld: Bringing up level for play took: 0.001995
+[2018.07.15-10.54.33:876][899]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.54.33:876][899]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-10.54.33:876][899]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.54.33:877][899]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-10.54.33:878][899]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,667
+[2018.07.15-10.55.51:232][627]LogGeometryMode: Warning: Unable to find BoxBrush44 Brush(s) in new BSP
+[2018.07.15-10.55.51:232][627]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.55.56:692][174]LogGeometryMode: Warning: Unable to find BoxBrush56 Brush(s) in new BSP
+[2018.07.15-10.55.56:692][174]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-10.57.02:633][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-10.57.02:967][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-10.57.03:822][821]LogSavePackage: Save=478.24ms
+[2018.07.15-10.57.03:822][821]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_Auto24B728CC84063877C26AA4385AA5D491F.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto2.umap'
+[2018.07.15-10.57.03:824][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto2.umap
+[2018.07.15-10.57.04:024][821]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Q2' took 1.102
+[2018.07.15-10.57.04:025][821]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.102
+[2018.07.15-11.00.20:721][201]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2018.07.15-11.00.20:721][201]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.00.41:859][261]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2018.07.15-11.00.41:860][261]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.01.30:506][ 26]LogGeometryMode: Warning: Unable to find BoxBrush60 Brush(s) in new BSP
+[2018.07.15-11.01.30:507][ 26]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.01.43:599][340]LogGeometryMode: Warning: Unable to find BoxBrush19 Brush(s) in new BSP
+[2018.07.15-11.01.43:599][340]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.02.31:266][902]LogGeometryMode: Warning: Unable to find BoxBrush65 Brush(s) in new BSP
+[2018.07.15-11.02.31:266][902]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.02.37:391][515]LogGeometryMode: Warning: Unable to find BoxBrush70 Brush(s) in new BSP
+[2018.07.15-11.02.37:391][515]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.02.40:719][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-11.02.40:719][856]PIE: New page: PIE session: Q2 (15 jul 2018 15:02:40)
+[2018.07.15-11.02.40:720][856]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-11.02.40:740][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020239s)
+[2018.07.15-11.02.40:741][856]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-11.02.40:741][856]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2018.07.15-11.02.40:741][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.021812s)
+[2018.07.15-11.02.40:771][856]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-11.02.40:779][856]LogInit: FAudioDevice initialized.
+[2018.07.15-11.02.40:780][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.02.40:820][856]LogLoad: Game class is 'Mission_C'
+[2018.07.15-11.02.40:823][856]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-13.02.40
+[2018.07.15-11.02.40:824][856]LogWorld: Bringing up level for play took: 0.002212
+[2018.07.15-11.02.40:825][856]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.02.40:825][856]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.02.40:825][856]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.02.40:827][856]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.02.40:827][856]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,282
+[2018.07.15-11.03.06:545][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.03.08:020][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-11.03.12:040][428]LogActorFactory: Actor Factory created Cube
+[2018.07.15-11.03.12:233][446]LogActorFactory: Actor Factory created Cube
+[2018.07.15-11.03.21:137][216]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.03.33:392][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.03.43:586][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-11.04.15:973][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-11.04.30:188][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-11.04.54:293][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.15-11.05.08:270][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.07.15-11.05.20:547][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.15-11.05.35:257][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-11.05.35:257][457]PIE: New page: PIE session: Q2 (15 jul 2018 15:05:35)
+[2018.07.15-11.05.35:257][457]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-11.05.35:276][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018595s)
+[2018.07.15-11.05.35:277][457]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-11.05.35:277][457]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.07.15-11.05.35:277][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.019980s)
+[2018.07.15-11.05.35:297][457]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-11.05.35:306][457]LogInit: FAudioDevice initialized.
+[2018.07.15-11.05.35:306][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.05.35:334][457]LogLoad: Game class is 'Mission_C'
+[2018.07.15-11.05.35:337][457]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-13.05.35
+[2018.07.15-11.05.35:338][457]LogWorld: Bringing up level for play took: 0.002391
+[2018.07.15-11.05.35:338][457]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.05.35:339][457]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.05.35:339][457]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.05.35:340][457]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.05.35:340][457]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,796
+[2018.07.15-11.05.41:379][145]Cmd: LevelEditor.ToggleImmersive
+[2018.07.15-11.05.41:602][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.08.41:533][162]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-11.08.49:937][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.07.15-11.08.53:144][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.15-11.09.11:288][845]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.07.15-11.10.08:963][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.15-11.10.28:503][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.15-11.10.29:047][738]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2018.07.15-11.10.29:469][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.07.15-11.10.34:948][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.07.15-11.10.43:094][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.15-11.10.52:224][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.07.15-11.10.54:481][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.15-11.11.01:756][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-11.11.01:756][639]PIE: New page: PIE session: Q2 (15 jul 2018 15:11:01)
+[2018.07.15-11.11.01:757][639]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-11.11.01:776][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019043s)
+[2018.07.15-11.11.01:777][639]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-11.11.01:777][639]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.07.15-11.11.01:778][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.020494s)
+[2018.07.15-11.11.01:800][639]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-11.11.01:810][639]LogInit: FAudioDevice initialized.
+[2018.07.15-11.11.01:810][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.11.01:847][639]LogLoad: Game class is 'Mission_C'
+[2018.07.15-11.11.01:851][639]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-13.11.01
+[2018.07.15-11.11.01:851][639]LogWorld: Bringing up level for play took: 0.002520
+[2018.07.15-11.11.01:852][639]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.11.01:852][639]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.11.01:852][639]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.11.01:854][639]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.11.01:854][639]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,691
+[2018.07.15-11.11.44:615][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.12.16:212][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-11.12.16:763][381]LogSavePackage: Save=475.48ms
+[2018.07.15-11.12.16:763][381]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_Auto3BCA3381143A3E2B28F039DA9302BA718.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto3.umap'
+[2018.07.15-11.12.16:765][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto3.umap
+[2018.07.15-11.12.17:113][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Q2' took 0.929
+[2018.07.15-11.12.17:114][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.929
+[2018.07.15-11.12.33:281][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.15-11.13.14:913][142]LogGeometryMode: Warning: Unable to find BoxBrush59 Brush(s) in new BSP
+[2018.07.15-11.13.14:913][142]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.14.19:962][674]LogGeometryMode: Warning: Unable to find BoxBrush56 Brush(s) in new BSP
+[2018.07.15-11.14.19:962][674]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.14.53:852][996]LogGeometryMode: Warning: Unable to find BoxBrush59 Brush(s) in new BSP
+[2018.07.15-11.14.53:852][996]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.22.17:350][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.22.17:673][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-11.22.18:251][403]LogSavePackage: Save=501.69ms
+[2018.07.15-11.22.18:251][403]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_Auto4382A33E541B6C235CFB3F093FAD77DFB.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto4.umap'
+[2018.07.15-11.22.18:253][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto4.umap
+[2018.07.15-11.22.18:549][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Q2' took 0.918
+[2018.07.15-11.22.18:550][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.918
+[2018.07.15-11.23.59:213][612]LogGeometryMode: Warning: Unable to find BoxBrush59 Brush(s) in new BSP
+[2018.07.15-11.23.59:213][612]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.26.31:982][219]Cmd: SELECT NONE
+[2018.07.15-11.27.30:584][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.15-11.27.31:125][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2018.07.15-11.27.31:431][799]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.07.15-11.28.01:866][681]LogGeometryMode: Warning: Unable to find BoxBrush70 Brush(s) in new BSP
+[2018.07.15-11.28.01:866][681]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.28.26:778][ 52]LogGeometryMode: Warning: Unable to find BoxBrush70 Brush(s) in new BSP
+[2018.07.15-11.28.26:779][ 52]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.28.34:882][829]LogGeometryMode: Warning: Unable to find BoxBrush69 Brush(s) in new BSP
+[2018.07.15-11.28.34:882][829]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.28.57:463][999]LogGeometryMode: Warning: Unable to find BoxBrush81 Brush(s) in new BSP
+[2018.07.15-11.28.57:464][999]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.29.18:396][920]LogGeometryMode: Warning: Unable to find BoxBrush82 Brush(s) in new BSP
+[2018.07.15-11.29.18:396][920]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.29.26:343][646]LogGeometryMode: Warning: Unable to find BoxBrush81 Brush(s) in new BSP
+[2018.07.15-11.29.26:343][646]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.29.34:162][369]LogGeometryMode: Warning: Unable to find BoxBrush85 Brush(s) in new BSP
+[2018.07.15-11.29.34:162][369]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.29.44:699][419]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2018.07.15-11.29.44:699][419]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.30.03:112][195]LogGeometryMode: Warning: Unable to find BoxBrush85 Brush(s) in new BSP
+[2018.07.15-11.30.03:112][195]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.30.16:298][421]LogGeometryMode: Warning: Unable to find BoxBrush87 Brush(s) in new BSP
+[2018.07.15-11.30.16:298][421]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.30.19:429][693]LogGeometryMode: Warning: Unable to find BoxBrush90 Brush(s) in new BSP
+[2018.07.15-11.30.19:429][693]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.30.29:292][643]LogGeometryMode: Warning: Unable to find BoxBrush91 Brush(s) in new BSP
+[2018.07.15-11.30.29:292][643]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.30.57:348][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-11.30.57:348][428]PIE: New page: PIE session: Q2 (15 jul 2018 15:30:57)
+[2018.07.15-11.30.57:348][428]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-11.30.57:371][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022984s)
+[2018.07.15-11.30.57:372][428]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-11.30.57:373][428]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2018.07.15-11.30.57:373][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.024576s)
+[2018.07.15-11.30.57:419][428]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-11.30.57:428][428]LogInit: FAudioDevice initialized.
+[2018.07.15-11.30.57:429][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.30.57:465][428]LogLoad: Game class is 'Mission_C'
+[2018.07.15-11.30.57:471][428]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-13.30.57
+[2018.07.15-11.30.57:471][428]LogWorld: Bringing up level for play took: 0.002710
+[2018.07.15-11.30.57:472][428]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.30.57:472][428]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-11.30.57:473][428]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.30.57:474][428]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-11.30.57:474][428]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,929
+[2018.07.15-11.31.58:656][252]Cmd: DELETE
+[2018.07.15-11.31.58:686][252]Cmd: ACTOR DELETE
+[2018.07.15-11.31.58:706][252]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.31.58:749][252]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.07.15-11.31.59:084][280]Cmd: DELETE
+[2018.07.15-11.31.59:115][280]Cmd: ACTOR DELETE
+[2018.07.15-11.31.59:134][280]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.31.59:175][280]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2018.07.15-11.32.04:805][835]Cmd: DELETE
+[2018.07.15-11.32.04:845][835]Cmd: ACTOR DELETE
+[2018.07.15-11.32.04:867][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:867][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:868][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:868][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:868][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:868][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:868][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:869][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:869][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:869][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:869][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:869][835]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-11.32.04:908][835]LogEditorActor: Deleted 12 Actors (0.062 secs)
+[2018.07.15-11.33.21:420][570]Cmd: SELECT NONE
+[2018.07.15-11.33.22:581][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-11.33.22:590][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-11.33.23:204][695]LogSavePackage: Save=515.06ms
+[2018.07.15-11.33.23:205][695]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q220F7490D477E6BF4CBF93BBA0036D5EC.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-11.33.23:501][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-11.33.23:692][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2_BuiltData" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset" SILENT=true
+[2018.07.15-11.33.23:879][695]LogSavePackage: Save=63.42ms
+[2018.07.15-11.33.23:882][695]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_BuiltDataF8AA5DE44DF32020E4128EA9CEDE1B66.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset'
+[2018.07.15-11.33.23:886][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset
+[2018.07.15-11.35.53:547][ 84]LogGeometryMode: Warning: Unable to find BoxBrush89 Brush(s) in new BSP
+[2018.07.15-11.35.53:547][ 84]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-11.43.23:052][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-11.43.23:507][601]LogSavePackage: Save=338.85ms
+[2018.07.15-11.43.23:507][601]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_Auto58E5BAF6D41863A451E40B3811BF7AB95.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto5.umap'
+[2018.07.15-11.43.23:510][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto5.umap
+[2018.07.15-11.43.23:859][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Q2' took 0.911
+[2018.07.15-11.43.23:860][601]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.911
+[2018.07.15-12.01.00:869][577]LogGeometryMode: Warning: Unable to find BoxBrush45 Brush(s) in new BSP
+[2018.07.15-12.01.00:870][577]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.01.40:619][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.01.40:916][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-12.01.41:451][775]LogSavePackage: Save=421.46ms
+[2018.07.15-12.01.41:453][775]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_Auto65D8EFA624F6535DEFD01D2A704AA3F0A.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto6.umap'
+[2018.07.15-12.01.41:456][775]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto6.umap
+[2018.07.15-12.01.41:642][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Q2' took 0.740
+[2018.07.15-12.01.41:643][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.740
+[2018.07.15-12.02.15:838][518]LogGeometryMode: Warning: Unable to find BoxBrush91 Brush(s) in new BSP
+[2018.07.15-12.02.15:838][518]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.03.29:306][232]LogGeometryMode: Warning: Unable to find BoxBrush91 Brush(s) in new BSP
+[2018.07.15-12.03.29:306][232]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.03.57:475][678]LogGeometryMode: Warning: Unable to find BoxBrush87 Brush(s) in new BSP
+[2018.07.15-12.03.57:476][678]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.04.35:392][515]LogGeometryMode: Warning: Unable to find BoxBrush103 Brush(s) in new BSP
+[2018.07.15-12.04.35:392][515]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.04.42:981][101]LogGeometryMode: Warning: Unable to find BoxBrush87 Brush(s) in new BSP
+[2018.07.15-12.04.42:981][101]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.05.22:486][ 39]LogGeometryMode: Warning: Unable to find BoxBrush85 Brush(s) in new BSP
+[2018.07.15-12.05.22:486][ 39]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.06.30:512][187]LogGeometryMode: Warning: Unable to find BoxBrush89 Brush(s) in new BSP
+[2018.07.15-12.06.30:512][187]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.07.10:529][247]LogGeometryMode: Warning: Unable to find BoxBrush28 Brush(s) in new BSP
+[2018.07.15-12.07.10:529][247]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.07.48:437][913]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.07.15-12.07.49:012][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2018.07.15-12.07.49:495][969]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.07.15-12.09.24:721][253]LogGeometryMode: Warning: Unable to find BoxBrush44 Brush(s) in new BSP
+[2018.07.15-12.09.24:721][253]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.09.44:671][802]LogGeometryMode: Warning: Unable to find BoxBrush98 Brush(s) in new BSP
+[2018.07.15-12.09.44:671][802]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.09.54:851][534]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-12.09.54:851][534]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.10.59:332][ 30]LogGeometryMode: Warning: Unable to find BoxBrush81 Brush(s) in new BSP
+[2018.07.15-12.10.59:332][ 30]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.10.59:732][ 56]Cmd: DELETE
+[2018.07.15-12.10.59:779][ 56]Cmd: ACTOR DELETE
+[2018.07.15-12.10.59:798][ 56]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.10.59:875][ 56]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2018.07.15-12.11.09:607][794]LogGeometryMode: Warning: Unable to find BoxBrush97 Brush(s) in new BSP
+[2018.07.15-12.11.09:607][794]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.11.43:438][172]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-12.11.43:438][172]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.11.48:537][557]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2018.07.15-12.11.48:537][557]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.11.50:244][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.07.15-12.11.50:995][742]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.07.15-12.11.51:474][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2018.07.15-12.12.30:172][777]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2018.07.15-12.12.30:172][777]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.12.46:562][ 21]LogGeometryMode: Warning: Unable to find BoxBrush83 Brush(s) in new BSP
+[2018.07.15-12.12.46:562][ 21]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.13.23:001][845]LogGeometryMode: Warning: Unable to find BoxBrush79 Brush(s) in new BSP
+[2018.07.15-12.13.23:001][845]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.13.32:072][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.13.32:073][478]PIE: New page: PIE session: Q2 (15 jul 2018 16:13:32)
+[2018.07.15-12.13.32:073][478]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.13.32:105][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031839s)
+[2018.07.15-12.13.32:106][478]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.13.32:107][478]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2018.07.15-12.13.32:107][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.033797s)
+[2018.07.15-12.13.32:144][478]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.13.32:155][478]LogInit: FAudioDevice initialized.
+[2018.07.15-12.13.32:156][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.13.32:194][478]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.13.32:198][478]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.13.32
+[2018.07.15-12.13.32:199][478]LogWorld: Bringing up level for play took: 0.003036
+[2018.07.15-12.13.32:200][478]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.13.32:200][478]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.13.32:200][478]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.13.32:202][478]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.13.32:202][478]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,342
+[2018.07.15-12.14.09:711][836]LogGeometryMode: Warning: Unable to find BoxBrush83 Brush(s) in new BSP
+[2018.07.15-12.14.09:711][836]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.14.16:089][346]LogGeometryMode: Warning: Unable to find BoxBrush70 Brush(s) in new BSP
+[2018.07.15-12.14.16:090][346]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.14.17:860][480]LogGeometryMode: Warning: Unable to find BoxBrush108 Brush(s) in new BSP
+[2018.07.15-12.14.17:860][480]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.15.01:099][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.15.01:099][ 76]PIE: New page: PIE session: Q2 (15 jul 2018 16:15:01)
+[2018.07.15-12.15.01:099][ 76]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.15.01:130][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030524s)
+[2018.07.15-12.15.01:131][ 76]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.15.01:132][ 76]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2018.07.15-12.15.01:132][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.032353s)
+[2018.07.15-12.15.01:162][ 76]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.15.01:172][ 76]LogInit: FAudioDevice initialized.
+[2018.07.15-12.15.01:172][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.15.01:215][ 76]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.15.01:218][ 76]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.15.01
+[2018.07.15-12.15.01:219][ 76]LogWorld: Bringing up level for play took: 0.002816
+[2018.07.15-12.15.01:220][ 76]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.15.01:220][ 76]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.15.01:220][ 76]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.15.01:222][ 76]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.15.01:223][ 76]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,678
+[2018.07.15-12.15.41:363][880]Cmd: DELETE
+[2018.07.15-12.15.41:413][880]Cmd: ACTOR DELETE
+[2018.07.15-12.15.41:431][880]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.15.41:476][880]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.07.15-12.16.38:687][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.16.38:993][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.15-12.16.39:476][644]LogSavePackage: Save=375.07ms
+[2018.07.15-12.16.39:476][644]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_Auto7F00DA53E49D873C095B51F9643D10BBE.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto7.umap'
+[2018.07.15-12.16.39:478][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Saved/Autosaves/Game/Levels/Q2_Auto7.umap
+[2018.07.15-12.16.39:676][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Q2' took 0.703
+[2018.07.15-12.16.39:676][644]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.703
+[2018.07.15-12.17.35:551][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.17.35:552][280]PIE: New page: PIE session: Q2 (15 jul 2018 16:17:35)
+[2018.07.15-12.17.35:552][280]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.17.35:582][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029890s)
+[2018.07.15-12.17.35:583][280]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.17.35:584][280]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2018.07.15-12.17.35:584][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.032281s)
+[2018.07.15-12.17.35:613][280]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.17.35:624][280]LogInit: FAudioDevice initialized.
+[2018.07.15-12.17.35:624][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.17.35:664][280]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.17.35:667][280]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.17.35
+[2018.07.15-12.17.35:668][280]LogWorld: Bringing up level for play took: 0.002963
+[2018.07.15-12.17.35:669][280]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.17.35:669][280]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.17.35:669][280]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.17.35:671][280]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.17.35:671][280]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,873
+[2018.07.15-12.18.31:923][469]LogGeometryMode: Warning: Unable to find BoxBrush80 Brush(s) in new BSP
+[2018.07.15-12.18.31:923][469]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.18.32:373][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.18.32:373][499]PIE: New page: PIE session: Q2 (15 jul 2018 16:18:32)
+[2018.07.15-12.18.32:373][499]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.18.32:401][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027600s)
+[2018.07.15-12.18.32:402][499]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.18.32:402][499]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.07.15-12.18.32:402][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.029118s)
+[2018.07.15-12.18.32:428][499]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.18.32:437][499]LogInit: FAudioDevice initialized.
+[2018.07.15-12.18.32:437][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.18.32:482][499]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.18.32:485][499]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.18.32
+[2018.07.15-12.18.32:486][499]LogWorld: Bringing up level for play took: 0.002992
+[2018.07.15-12.18.32:487][499]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.18.32:487][499]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.18.32:487][499]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.18.32:489][499]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.18.32:489][499]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,056
+[2018.07.15-12.18.49:177][125]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-12.18.51:377][342]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-12.18.53:395][549]LogBlueprintUserMessages: [Weapon_C_0] Charged
+[2018.07.15-12.21.13:744][ 38]Cmd: DELETE
+[2018.07.15-12.21.13:793][ 38]Cmd: ACTOR DELETE
+[2018.07.15-12.21.13:813][ 38]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.21.13:861][ 38]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.07.15-12.21.14:786][119]Cmd: DELETE
+[2018.07.15-12.21.14:831][119]Cmd: ACTOR DELETE
+[2018.07.15-12.21.14:844][119]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.21.14:889][119]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.07.15-12.21.16:509][266]Cmd: DELETE
+[2018.07.15-12.21.16:558][266]Cmd: ACTOR DELETE
+[2018.07.15-12.21.16:570][266]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.21.16:620][266]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.07.15-12.21.26:261][  6]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.07.15-12.21.26:261][  6]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.21.55:640][459]Cmd: DELETE
+[2018.07.15-12.21.55:686][459]Cmd: ACTOR DELETE
+[2018.07.15-12.21.55:698][459]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.21.55:753][459]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.07.15-12.22.23:398][470]LogGeometryMode: Warning: Unable to find BoxBrush86 Brush(s) in new BSP
+[2018.07.15-12.22.23:398][470]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.22.23:474][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.22.25:240][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.22.25:301][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-12.22.25:832][644]LogSavePackage: Save=361.49ms
+[2018.07.15-12.22.25:832][644]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2A439EF804F19938FA1F38BAA74CF0E1B.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-12.22.26:065][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-12.22.26:217][644]LogFileHelpers: Saving map 'Q2' took 0.969
+[2018.07.15-12.22.54:769][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.23.03:787][656]LogGeometryMode: Warning: Unable to find BoxBrush69 Brush(s) in new BSP
+[2018.07.15-12.23.03:788][656]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.23.20:614][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.23.20:615][343]PIE: New page: PIE session: Q2 (15 jul 2018 16:23:20)
+[2018.07.15-12.23.20:615][343]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.23.20:640][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024428s)
+[2018.07.15-12.23.20:641][343]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.23.20:641][343]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.07.15-12.23.20:641][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.026223s)
+[2018.07.15-12.23.20:680][343]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.23.20:690][343]LogInit: FAudioDevice initialized.
+[2018.07.15-12.23.20:691][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.23.20:722][343]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.23.20:726][343]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.23.20
+[2018.07.15-12.23.20:727][343]LogWorld: Bringing up level for play took: 0.003199
+[2018.07.15-12.23.20:728][343]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.23.20:728][343]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.23.20:728][343]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.23.20:730][343]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.23.20:730][343]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,186
+[2018.07.15-12.23.26:520][  6]Cmd: LevelEditor.ToggleImmersive
+[2018.07.15-12.23.26:734][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.24.53:865][417]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2018.07.15-12.24.53:865][417]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.25.25:123][865]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2018.07.15-12.25.25:123][865]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.27.11:325][351]LogGeometryMode: Warning: Unable to find BoxBrush102 Brush(s) in new BSP
+[2018.07.15-12.27.11:325][351]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.27.19:539][  2]LogGeometryMode: Warning: Unable to find BoxBrush102 Brush(s) in new BSP
+[2018.07.15-12.27.19:539][  2]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.27.24:606][418]LogGeometryMode: Warning: Unable to find BoxBrush98 Brush(s) in new BSP
+[2018.07.15-12.27.24:606][418]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.27.31:307][973]Cmd: SELECT NONE
+[2018.07.15-12.27.31:948][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.27.31:962][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-12.27.32:525][ 34]LogSavePackage: Save=435.20ms
+[2018.07.15-12.27.32:526][ 34]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q27A3958384E2956AB81EF5884D6C48819.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-12.27.32:812][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-12.27.32:964][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2_BuiltData" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset" SILENT=true
+[2018.07.15-12.27.33:153][ 34]LogSavePackage: Save=54.33ms
+[2018.07.15-12.27.33:153][ 34]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_BuiltData417A3FE94B30F22E274158AB0817ABC7.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset'
+[2018.07.15-12.27.33:156][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset
+[2018.07.15-12.28.02:472][500]LogGeometryMode: Warning: Unable to find BoxBrush106 Brush(s) in new BSP
+[2018.07.15-12.28.02:472][500]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.29.03:807][415]LogGeometryMode: Warning: Unable to find BoxBrush67 Brush(s) in new BSP
+[2018.07.15-12.29.03:807][415]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.29.53:078][309]Cmd: SELECT NONE
+[2018.07.15-12.29.55:673][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.29.55:687][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-12.29.56:172][546]LogSavePackage: Save=398.36ms
+[2018.07.15-12.29.56:172][546]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2F37D3D0D4FD03EA2228CF5B0CBD375A8.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-12.29.56:499][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-12.29.56:647][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2_BuiltData" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset" SILENT=true
+[2018.07.15-12.29.56:796][546]LogSavePackage: Save=52.09ms
+[2018.07.15-12.29.56:796][546]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_BuiltData79E6E8434223322CCE054F953768532D.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset'
+[2018.07.15-12.29.56:803][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset
+[2018.07.15-12.31.09:336][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.31.09:336][467]PIE: New page: PIE session: Q2 (15 jul 2018 16:31:09)
+[2018.07.15-12.31.09:336][467]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.31.09:363][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026721s)
+[2018.07.15-12.31.09:364][467]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.31.09:365][467]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2018.07.15-12.31.09:365][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.028617s)
+[2018.07.15-12.31.09:391][467]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.31.09:403][467]LogInit: FAudioDevice initialized.
+[2018.07.15-12.31.09:403][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.31.09:442][467]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.31.09:447][467]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.31.09
+[2018.07.15-12.31.09:447][467]LogWorld: Bringing up level for play took: 0.003260
+[2018.07.15-12.31.09:448][467]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.31.09:449][467]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.31.09:449][467]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.31.09:451][467]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.31.09:451][467]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,906
+[2018.07.15-12.31.09:500][468]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061851 > MaxSimulationTimeStep (0.050) for 'Hunter_C_0', movement 'Walking'
+[2018.07.15-12.32.33:817][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.32.33:817][855]PIE: New page: PIE session: Q2 (15 jul 2018 16:32:33)
+[2018.07.15-12.32.33:818][855]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.32.33:843][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024909s)
+[2018.07.15-12.32.33:843][855]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.32.33:844][855]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.07.15-12.32.33:845][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.027060s)
+[2018.07.15-12.32.33:867][855]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.32.33:878][855]LogInit: FAudioDevice initialized.
+[2018.07.15-12.32.33:878][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.32.33:921][855]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.32.33:924][855]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.32.33
+[2018.07.15-12.32.33:925][855]LogWorld: Bringing up level for play took: 0.002773
+[2018.07.15-12.32.33:926][855]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.32.33:927][855]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.32.33:927][855]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.32.33:929][855]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.32.33:929][855]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,615
+[2018.07.15-12.34.12:140][372]Cmd: DELETE
+[2018.07.15-12.34.12:186][372]Cmd: ACTOR DELETE
+[2018.07.15-12.34.12:194][372]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.12:243][372]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.07.15-12.34.12:731][413]Cmd: DELETE
+[2018.07.15-12.34.12:780][413]Cmd: ACTOR DELETE
+[2018.07.15-12.34.12:789][413]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.12:849][413]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.07.15-12.34.13:456][463]Cmd: DELETE
+[2018.07.15-12.34.13:493][463]Cmd: ACTOR DELETE
+[2018.07.15-12.34.13:502][463]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.13:558][463]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.07.15-12.34.14:052][502]Cmd: DELETE
+[2018.07.15-12.34.14:088][502]Cmd: ACTOR DELETE
+[2018.07.15-12.34.14:099][502]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.14:151][502]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.07.15-12.34.16:921][720]Cmd: DELETE
+[2018.07.15-12.34.16:971][720]Cmd: ACTOR DELETE
+[2018.07.15-12.34.16:981][720]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.17:033][720]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.07.15-12.34.17:322][742]Cmd: DELETE
+[2018.07.15-12.34.17:357][742]Cmd: ACTOR DELETE
+[2018.07.15-12.34.17:367][742]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.17:413][742]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.07.15-12.34.17:826][775]Cmd: DELETE
+[2018.07.15-12.34.17:863][775]Cmd: ACTOR DELETE
+[2018.07.15-12.34.17:873][775]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.17:918][775]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.07.15-12.34.18:474][821]Cmd: DELETE
+[2018.07.15-12.34.18:517][821]Cmd: ACTOR DELETE
+[2018.07.15-12.34.18:527][821]LogEditorActor: Deleted Actor: Brush
+[2018.07.15-12.34.18:582][821]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.07.15-12.34.19:403][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.34.19:403][898]PIE: New page: PIE session: Q2 (15 jul 2018 16:34:19)
+[2018.07.15-12.34.19:403][898]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.34.19:428][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024050s)
+[2018.07.15-12.34.19:428][898]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.34.19:429][898]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2018.07.15-12.34.19:429][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.025721s)
+[2018.07.15-12.34.19:451][898]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.34.19:460][898]LogInit: FAudioDevice initialized.
+[2018.07.15-12.34.19:460][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.34.19:501][898]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.34.19:504][898]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.34.19
+[2018.07.15-12.34.19:504][898]LogWorld: Bringing up level for play took: 0.002734
+[2018.07.15-12.34.19:505][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.34.19:506][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.34.19:506][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.34.19:508][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.34.19:508][898]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,963
+[2018.07.15-12.35.35:785][872]LogGeometryMode: Warning: Unable to find BoxBrush44 Brush(s) in new BSP
+[2018.07.15-12.35.35:786][872]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.35.47:244][761]LogGeometryMode: Warning: Unable to find BoxBrush44 Brush(s) in new BSP
+[2018.07.15-12.35.47:245][761]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.35.55:175][357]LogGeometryMode: Warning: Unable to find BoxBrush44 Brush(s) in new BSP
+[2018.07.15-12.35.55:175][357]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.36.17:102][ 41]LogGeometryMode: Warning: Unable to find BoxBrush115 Brush(s) in new BSP
+[2018.07.15-12.36.17:102][ 41]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.36.36:293][626]LogGeometryMode: Warning: Unable to find BoxBrush116 Brush(s) in new BSP
+[2018.07.15-12.36.36:293][626]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.36.46:369][438]LogGeometryMode: Warning: Unable to find BoxBrush117 Brush(s) in new BSP
+[2018.07.15-12.36.46:369][438]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.36.51:852][851]LogGeometryMode: Warning: Unable to find BoxBrush116 Brush(s) in new BSP
+[2018.07.15-12.36.51:852][851]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.37.01:950][613]LogGeometryMode: Warning: Unable to find BoxBrush123 Brush(s) in new BSP
+[2018.07.15-12.37.01:950][613]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.37.42:228][861]LogGeometryMode: Warning: Unable to find BoxBrush127 Brush(s) in new BSP
+[2018.07.15-12.37.42:228][861]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.37.49:032][398]LogGeometryMode: Warning: Unable to find BoxBrush122 Brush(s) in new BSP
+[2018.07.15-12.37.49:032][398]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.38.11:392][173]LogGeometryMode: Warning: Unable to find BoxBrush127 Brush(s) in new BSP
+[2018.07.15-12.38.11:392][173]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.38.29:696][583]Cmd: SELECT NONE
+[2018.07.15-12.38.30:357][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.38.30:375][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-12.38.30:981][645]LogSavePackage: Save=435.71ms
+[2018.07.15-12.38.30:981][645]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2462692B147EF08EAD44C8B9B46C292A9.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-12.38.31:293][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-12.38.31:466][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2_BuiltData" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset" SILENT=true
+[2018.07.15-12.38.31:626][645]LogSavePackage: Save=53.70ms
+[2018.07.15-12.38.31:626][645]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_BuiltData77F069C14FF6F785277C1CB79A5B4226.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset'
+[2018.07.15-12.38.31:629][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset
+[2018.07.15-12.38.59:757][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.38.59:758][867]PIE: New page: PIE session: Q2 (15 jul 2018 16:38:59)
+[2018.07.15-12.38.59:758][867]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.38.59:786][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027325s)
+[2018.07.15-12.38.59:787][867]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.38.59:788][867]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2018.07.15-12.38.59:788][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.029053s)
+[2018.07.15-12.38.59:820][867]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.38.59:831][867]LogInit: FAudioDevice initialized.
+[2018.07.15-12.38.59:831][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.38.59:875][867]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.38.59:879][867]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.38.59
+[2018.07.15-12.38.59:879][867]LogWorld: Bringing up level for play took: 0.002925
+[2018.07.15-12.38.59:881][867]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.38.59:881][867]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.38.59:881][867]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.38.59:883][867]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.38.59:884][867]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,661
+[2018.07.15-12.40.17:100][  1]LogGeometryMode: Warning: Unable to find BoxBrush126 Brush(s) in new BSP
+[2018.07.15-12.40.17:100][  1]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.40.27:594][839]LogGeometryMode: Warning: Unable to find BoxBrush115 Brush(s) in new BSP
+[2018.07.15-12.40.27:594][839]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.40.34:301][319]LogGeometryMode: Warning: Unable to find BoxBrush115 Brush(s) in new BSP
+[2018.07.15-12.40.34:301][319]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.40.37:392][564]LogGeometryMode: Warning: Unable to find BoxBrush130 Brush(s) in new BSP
+[2018.07.15-12.40.37:392][564]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.40.42:119][943]LogGeometryMode: Warning: Unable to find BoxBrush115 Brush(s) in new BSP
+[2018.07.15-12.40.42:119][943]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.40.54:526][983]Cmd: SELECT NONE
+[2018.07.15-12.40.57:937][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.40.57:952][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.15-12.40.58:448][294]LogSavePackage: Save=405.60ms
+[2018.07.15-12.40.58:448][294]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2FED20B5B4CDC9640C658D8928E534A9D.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap'
+[2018.07.15-12.40.58:782][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2.umap
+[2018.07.15-12.40.58:947][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Q2_BuiltData" FILE="../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset" SILENT=true
+[2018.07.15-12.40.59:068][294]LogSavePackage: Save=52.48ms
+[2018.07.15-12.40.59:068][294]LogSavePackage: Moving '../../../../../../Unreal Projects/FirstPersonMission/Saved/Q2_BuiltDataAE5E10A54584746C9FC8DC859F943A9F.tmp' to '../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset'
+[2018.07.15-12.40.59:071][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/FirstPersonMission/Content/Levels/Q2_BuiltData.uasset
+[2018.07.15-12.41.32:220][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.41.32:221][479]PIE: New page: PIE session: Q2 (15 jul 2018 16:41:32)
+[2018.07.15-12.41.32:221][479]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.41.32:250][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028536s)
+[2018.07.15-12.41.32:251][479]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.41.32:251][479]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2018.07.15-12.41.32:251][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.030189s)
+[2018.07.15-12.41.32:284][479]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.41.32:293][479]LogInit: FAudioDevice initialized.
+[2018.07.15-12.41.32:294][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.41.32:333][479]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.41.32:337][479]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.41.32
+[2018.07.15-12.41.32:338][479]LogWorld: Bringing up level for play took: 0.003257
+[2018.07.15-12.41.32:339][479]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.41.32:339][479]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.41.32:339][479]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.41.32:342][479]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.41.32:343][479]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 −0,202
+[2018.07.15-12.41.58:109][685]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2018.07.15-12.41.58:109][685]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.42.21:420][589]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2018.07.15-12.42.21:420][589]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.42.35:060][673]LogGeometryMode: Warning: Unable to find BoxBrush30 Brush(s) in new BSP
+[2018.07.15-12.42.35:060][673]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.42.50:843][952]LogGeometryMode: Warning: Unable to find BoxBrush29 Brush(s) in new BSP
+[2018.07.15-12.42.50:843][952]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.42.52:565][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.42.52:565][ 82]PIE: New page: PIE session: Q2 (15 jul 2018 16:42:52)
+[2018.07.15-12.42.52:566][ 82]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.42.52:594][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027867s)
+[2018.07.15-12.42.52:595][ 82]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.42.52:595][ 82]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.07.15-12.42.52:595][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.029438s)
+[2018.07.15-12.42.52:619][ 82]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.42.52:628][ 82]LogInit: FAudioDevice initialized.
+[2018.07.15-12.42.52:629][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.42.52:669][ 82]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.42.52:673][ 82]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.42.52
+[2018.07.15-12.42.52:674][ 82]LogWorld: Bringing up level for play took: 0.003153
+[2018.07.15-12.42.52:675][ 82]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.42.52:675][ 82]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.42.52:675][ 82]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.42.52:677][ 82]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.42.52:677][ 82]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,132
+[2018.07.15-12.43.36:510][132]LogGeometryMode: Warning: Unable to find BoxBrush98 Brush(s) in new BSP
+[2018.07.15-12.43.36:511][132]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.43.50:834][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.43.50:834][277]PIE: New page: PIE session: Q2 (15 jul 2018 16:43:50)
+[2018.07.15-12.43.50:835][277]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.43.50:862][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027408s)
+[2018.07.15-12.43.50:863][277]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.43.50:863][277]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.07.15-12.43.50:863][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.028833s)
+[2018.07.15-12.43.50:897][277]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.43.50:908][277]LogInit: FAudioDevice initialized.
+[2018.07.15-12.43.50:908][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.43.50:950][277]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.43.50:953][277]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.43.50
+[2018.07.15-12.43.50:954][277]LogWorld: Bringing up level for play took: 0.002996
+[2018.07.15-12.43.50:955][277]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.43.50:955][277]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.43.50:955][277]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.43.50:957][277]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.43.50:957][277]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,413
+[2018.07.15-12.53.33:779][566]LogGeometryMode: Warning: Unable to find BoxBrush87 Brush(s) in new BSP
+[2018.07.15-12.53.33:779][566]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.53.41:005][ 71]LogGeometryMode: Warning: Unable to find BoxBrush87 Brush(s) in new BSP
+[2018.07.15-12.53.41:005][ 71]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.54.21:554][398]LogGeometryMode: Warning: Unable to find BoxBrush133 Brush(s) in new BSP
+[2018.07.15-12.54.21:555][398]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.54.38:426][765]LogGeometryMode: Warning: Unable to find BoxBrush134 Brush(s) in new BSP
+[2018.07.15-12.54.38:427][765]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.55.29:710][303]LogGeometryMode: Warning: Unable to find BoxBrush84 Brush(s) in new BSP
+[2018.07.15-12.55.29:710][303]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.55.33:294][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.15-12.55.33:294][579]PIE: New page: PIE session: Q2 (15 jul 2018 16:55:33)
+[2018.07.15-12.55.33:295][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Q2
+[2018.07.15-12.55.33:324][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029589s)
+[2018.07.15-12.55.33:325][579]LogAIModule: Creating AISystem for world Q2
+[2018.07.15-12.55.33:326][579]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.07.15-12.55.33:326][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Q2.Q2 to /Game/Levels/UEDPIE_0_Q2.Q2 (0.031276s)
+[2018.07.15-12.55.33:357][579]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.15-12.55.33:367][579]LogInit: FAudioDevice initialized.
+[2018.07.15-12.55.33:367][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.15-12.55.33:409][579]LogLoad: Game class is 'Mission_C'
+[2018.07.15-12.55.33:414][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Q2.Q2 up for play (max tick rate 0) at 2018.07.15-14.55.33
+[2018.07.15-12.55.33:414][579]LogWorld: Bringing up level for play took: 0.003185
+[2018.07.15-12.55.33:415][579]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.55.33:416][579]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.15-12.55.33:416][579]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.55.33:418][579]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.15-12.55.33:418][579]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Q2 0,873
+[2018.07.15-12.57.10:271][842]LogGeometryMode: Warning: Unable to find BoxBrush104 Brush(s) in new BSP
+[2018.07.15-12.57.10:272][842]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.57.12:632][ 42]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.12:632][ 42]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.15-12.57.13:165][ 74]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.13:166][ 74]LogEditorTransaction: Undo Marquee Select
+[2018.07.15-12.57.14:045][142]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.14:046][142]LogEditorTransaction: Undo Marquee Select
+[2018.07.15-12.57.14:627][196]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.14:628][196]LogEditorTransaction: Undo Marquee Select
+[2018.07.15-12.57.15:415][262]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.15:415][262]LogEditorTransaction: Undo Marquee Select
+[2018.07.15-12.57.16:925][388]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.16:926][388]LogEditorTransaction: Undo Marquee Select
+[2018.07.15-12.57.16:926][388]LogGeometryMode: Warning: Unable to find BoxBrush133 Brush(s) in new BSP
+[2018.07.15-12.57.16:926][388]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.57.17:525][437]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.17:525][437]LogEditorTransaction: Undo Marquee Select
+[2018.07.15-12.57.17:525][437]LogGeometryMode: Warning: Unable to find BoxBrush135 Brush(s) in new BSP
+[2018.07.15-12.57.17:525][437]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.07.15-12.57.18:134][487]Cmd: TRANSACTION UNDO
+[2018.07.15-12.57.18:134][487]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.15-12.57.18:174][487]LogWindows: Windows GetLastError: The operation completed successfully. (0)
